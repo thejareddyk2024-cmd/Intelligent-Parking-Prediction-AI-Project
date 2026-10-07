@@ -1,0 +1,10 @@
+# Large Datasets
+*.zip
+*.csv
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
